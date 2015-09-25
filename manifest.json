@@ -16,6 +16,7 @@
   },
 
   "browser_action": {
-    "default_title": "Friends Standings"
+    "default_title": "Friends Standings",
+    "default_icon": "icon.png"
   }
 }
